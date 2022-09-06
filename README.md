@@ -1,2 +1,3 @@
 # Jokenpo.py
-Jogue "Pedra, papel ou tesoura" contra o computador!
+
+🖐 Jogue "Pedra, papel ou tesoura" contra o computador!
