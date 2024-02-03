@@ -7,10 +7,10 @@ import random
 from time import sleep
 
 # Título do jogo
-print('='*30)
+print('=' * 30)
 msg = 'JOKENPÔ GAME'
 print(f'{msg:^30}')
-print('='*30)
+print('=' * 30)
 print()
 
 # Escolha do usuário
