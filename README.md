@@ -1,3 +1,3 @@
-# Jokenpo.py
+# jokenpo-python
 
-🖐 Jogue "Pedra, papel ou tesoura" contra o computador!
+Jogue "Pedra, papel ou tesoura" contra o computador usando Python.
