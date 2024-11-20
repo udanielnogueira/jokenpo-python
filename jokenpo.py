@@ -1,5 +1,5 @@
 """
-Jogue "Pedra, papel ou tesoura" contra o computador.
+Jogue "Pedra, Papel ou Tesoura" contra o computador.
 """
 
 import random
